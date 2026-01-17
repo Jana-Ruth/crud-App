@@ -21,5 +21,5 @@
 
 ```bash
 git clone https://github.com/yourusername/react-crud-app.git
-cd react-crud-app
+cd crud-app
 ```
